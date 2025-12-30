@@ -34,6 +34,9 @@ This repository contains the Databricks notebook `Analisis_Precios_Medicamentos`
    - To access the dashboard, click the Dashboard icon in the notebook toolbar.
    - The dashboard provides interactive charts and tables for exploring medication prices, coverage, and currency conversion.
 
+<img width="1914" height="889" alt="Dashboard_Databricks" src="https://github.com/user-attachments/assets/7e08f50b-7706-47cc-ab01-e04a07865e8b" />
+
+
 ## Notes
 
 - All code is written in Python using PySpark DataFrames.
